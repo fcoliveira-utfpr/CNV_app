@@ -1,0 +1,8 @@
+{
+  "appId": "com.cnvdiario.app",
+  "appName": "Diário CNV",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
