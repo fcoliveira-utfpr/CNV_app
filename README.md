@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🌱 Pausa CNV
@@ -161,3 +162,7 @@ Todos os direitos reservados — veja [LICENSE](LICENSE). Uso, cópia ou distrib
 Feito com 🌱 e Comunicação Não Violenta.
 
 </div>
+=======
+# CNV_app
+Aplicativo para contribuir com autoregulação e aprendizado de Comunicação Não Violenta (CNC). 
+>>>>>>> d5145eacb07dd37888a239ebac8a4ad4fa6192c4
